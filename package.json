@@ -1,0 +1,19 @@
+{
+  "name": "back-star-films",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene el Backend de mi proyecto final de películas del bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielpartida11/back-star-films.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielpartida11/back-star-films/issues"
+  },
+  "homepage": "https://github.com/danielpartida11/back-star-films#readme"
+}
